@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.Arrays;
-class sortting_array{
+class array_sorting_one{
     public static int [] sortted_array(int [] x){
         Arrays.sort(x);
         return x;
